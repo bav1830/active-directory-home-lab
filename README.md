@@ -3,3 +3,13 @@
 ## Project Overview
 
 I created a virtual Active Directory environment using Windows Server and a Windows 11 client. I used this lab to practise domain administration and common IT support tasks, including creating users, resetting passwords, joining a computer to the domain, and configuring Group Policy settings.
+
+## Technologies Used
+
+- Oracle VirtualBox
+- Windows Server 2022
+- Windows 11
+- Active Directory Domain Services
+- Group Policy
+- DNS
+- DHCP
